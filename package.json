@@ -6,6 +6,10 @@
     "start": "webpack && node --inspect ./dist/server",
     "build": "webpack"
   },
+  "engines":{
+    "node": "11.1.0"
+  },
+
   "devDependencies": {
     "babel-core": "^6.10.4",
     "babel-loader": "^7.1.2",
