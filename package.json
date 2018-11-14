@@ -7,7 +7,7 @@
     "build": "webpack"
   },
   "engines":{
-    "node": "11.1.0"
+    "node": "10.6.0"
   },
 
   "devDependencies": {
